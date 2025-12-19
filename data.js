@@ -406,5 +406,209 @@ window.appData = {
       "question": "Atšifrēt šādus jūras dibena grunts apzīmējumus: Cy.M;  M.S.Sh; R.Sh.mS; M.S.Sh.G; M.S.R;",
       "answer": "Grunts nosaukumi :\n* Cy.M - māls (clay) , dūņas (mud)\n* M.S.Sh - dūņas, smiltis (sand), glimežvāki (shells)\n* R.Sh.mS - klints (rock), gliemežvāki, vidēja smilts\n* M.S.Sh.G - dūņas, smilts, gliemežvāki, grants (gravel)\n* M.S.R - dūņas, smilts, klints"
     }
+  ],
+  "Q05 - Medicīna": [
+    {
+      "id": "Q05.01",
+      "question": "RĪCĪBAS SECĪBA NEGADĪJUMA VIETĀ: Cietušo pārvietošanas iespējas.",
+      "answer": "* Rīcības negadījuma vietā vispārējie pamatprincipi:\n* Sargā sevi\\!\n* Saglabā mieru\\!\n* Novērtē situāciju, tai skaitā esošās un draudošās briesmas\\!\n* Rīkojies ātri, droši un mērķtiecīgi\\!\n* Nebaidies no kļūdām\\!\n* Izsauc neatliekamo palīdzību (pats vai palūdz citam).\n* Sniedz palīdzību, līdz ierodas Neatliekamās palīdzības / Glābēji.\n* Pārbaudi savu un cietušā drošību, pārvieto cietušo no draudiem vai draudus no cietušā, novērs negadījuma cēloņus.\n* Bezsamaņa, stipra asiņošana – tūlītēja pirmā palīdzība – izsauc, vai sūti pēc palīdzības.\n* Saziņa ar ārkārtas dienestiem izmantojot pieejamo saziņas līdzekļus. MSI, EPIRB, 3 x MAYDAY (PAN PAN) 16\\. Kanālā.\n* ABC (Airway, Breathing, Circulation) shēma. Cietušais pie samaņas – Sniedz nepieciešamo palīdzību."
+    },
+    {
+      "id": "Q05.02",
+      "question": "Atdzīvināšanas pasākumi: Cietušais bezsamaņā, elpo.",
+      "answer": "* Pārbaudi cietušā samaņu: saudzīgi papurini cietušo aiz pleciem un skaļi uzrunā cietušo\n* Ja cietušais reaģē/atbild, tātad ir pie samaņas:\n* atstāj cietušo tādā pašā pozā, kā atradi;\n* centies noskaidrot, kas noticis ar cietušo un sniedz nepieciešamo palīdzību\n* ja nepieciešams, izsauc NMP\n* regulāri atkārtoti pārbaudi cietušā samaņu"
+    },
+    {
+      "id": "Q05.03",
+      "question": "Atdzīvināšanas pasākumi: Cietušais bezsamaņā, neelpo.",
+      "answer": "1. Sauc palīgā\\!\n2. Atbrīvo elpceļus.\n3. Novieto stabilā sānu pozīcijā.\n4. Izsauc NMP / Glābējus, liec atnest AED (Automated External Defibrillator)\n5. 30 sirds masāžas.\n6. 2 elpināšanas (var izlaist, ja nav vēlēšanās vai iespējas to veikt).\n7. Turpini 30:2\n8. Ieslēdz AED un dari\\!"
+    },
+    {
+      "id": "Q05.04",
+      "question": "DZĪVĪBAI BĪSTAMA ASIŅOŠANA: Šoks. Stipra asiņošana. Stipra asiņošana rokā vai kājā un ir pieejami pārsienamie materiāli.",
+      "answer": "* Kā rīkoties?\n1. Uzvelc rokās ūdens necaurlaidīgus cimdus.\n2. Atbrīvo asiņojošo vietu no apģērba.\n3. Aizspied brūci.\n4. Noguldi cietušo guļus as asiņojošo vietu uz augšu.\n5. Izsauc NMP / Glābējus. Turi brūci aizspiestu līdz NMP ierašanās brīdim.\n6. Aprūpē, nomierini cietušo.\n7. Veic atdzīvināšanas pasākumus, ja nepieciešams.\n* Svarīgi\\!\n* Stipra asiņošana ir dzīvībai bīstama.\n* Kā cimdu aizvietotājus var izmantot ūdens necaurlaidīga materiāla izstrādājumus.\n* Brūci, var aizspiest ar pirkstiem, plaukstu, vai dūri. Ja iespējams, izmanto marles salveti vai tīru drēbes gabalu.\n* Ja liekas, ka asiņošana turpinās, piespied brūci stiprāk, uzliekot vēl marles salveti vai drēbes gabalu virs esošā materiāla."
+    },
+    {
+      "id": "Q05.05",
+      "question": "TERMISKIE BOJĀJUMI: Pārkaršana. Apdegumi",
+      "answer": "Pārkaršana:\n1. Gādā, lai cietušais pārtrauc jebkādu fizisku slodzi.\n2. Nekavējoties pārvieto cietušo iespējami vēsākā vietā vai ēnā un novieto pusguļus.\n3. Atģērb cietušo.\n4. Atkārtoti mitrini ar vēsu ūdeni cietušā galvu, kaklu, krūtis.\n5. Dzesēšanai izmanto aukstus priekšmetus.\n6. Dod dzert vēsu dzērienu.\n7. Vēdini, dzesē, radi gaisa plūsmu.\n8. Izsauc NMP.\n9. Veic atdzīvināšanas pasākumus, ja nepieciešams."
+    },
+    {
+      "id": "Q05.06",
+      "question": "TERMISKIE BOJĀJUMI: Atdzišana, hipotermija. Apsaldējumi.",
+      "answer": "* novieto cietušo siltā telpā\n* atbrīvo cietušo no mitrām drēbēm,apaviem,\n* sasedz ar siltām, sausām drēbēm, un tad ietin folija segā\n* ja cietušajam nav traucēta apziņa, dod siltus, cukurotus dzērienus\n* nedod alkoholu\n* bez vajadzības nekustini rokas un kājas,\n* nemasē, nesēdini, necel stāvus\n* izsauc NMP\n* ABC, ja nepieciešams"
+    },
+    {
+      "id": "Q05.07",
+      "question": "ĶĪMISKO VIELU IZRAISĪTIE NELAIMES GADĪJUMI: Ķīmiska viela uz ādas.  Ķīmiska viela acī.",
+      "answer": "* Kā rīkoties, ja ķīmiska viela uz ādas:\n1. Novelc ar ķīmisko vielu piesārņoto apģērbu.\n2. Skalo cietušo vietu ar lielu daudzumu vēsa, tekoša ūdens 20 min.\n3. Izsauc NMP / Glābējus.\n4. Aprūpē nomierini cietušo.\n* Svarīgi\\!\n* Sausu vielu notrauc pirms skalošanas.\n* Skalo tā, lai ūdens nenotek uz neskartās ādas.\n* Nevelc nost apģērbu pār cietušā galvu.\n* Kā rīkoties, ja ķīmiska viela ir nokļuvusi acī:\n1. Nomazgā rokas ar ziepēm un izņem kontaktlēcas.\n2. Ar remdenu ūdeni skalo atvērtu aci vismaz 20 min. Pirms skalošanas notraukt sausu vielu no acs rajona, sargāt otru aci un neskarto ādu no notekošā ūdens.\n3. Nosiet abas acis (lai novērstu mirkšķināšanu).\n4. Nogādāt ārstniecības iestādē."
+    },
+    {
+      "id": "Q05.08",
+      "question": "ĶĪMISKO VIELU IZRAISĪTIE NELAIMES GADĪJUMI: Ķīmiska viela gremošanas traktā. Ieelpota ķīmiska viela",
+      "answer": "* Kā rīkoties, ja ķīmiska viela gremošanas traktā?\n1. Izsauc NMP.\n2. Dod izskalot muti ar ūdeni.\n3. Dod dzert vēsu ūdeni, bet ne vairāk kā 200ml.\n4. Aprūpē, nomierini cietušo.\n5. Veic atdzīvināšanas pasākumus, ja nepieciešams.\n6. Neizraisi vemšanu\\!"
+    },
+    {
+      "id": "Q05.09",
+      "question": "ELEKTROTRAUMA",
+      "answer": "1. Sargi sevi\\!\n2. Atslēdz strāvu\\!\n3. Izsauc NMP.\n4. Veic atdzīvināšanas pasākumus, ja nepieciešams."
+    },
+    {
+      "id": "Q05.10",
+      "question": "SLĪKŠANA",
+      "answer": "1. Glāb cietušo tikai tad, kad tas neapdraud Tavu dzīvību.\n2. Sargies no slīcēja tvēriena.\n3. Vienmēr izsauc NMP.\n4. Atdzīvināšanas pasākumi, ja nepieciešams."
+    },
+    {
+      "id": "Q05.11",
+      "question": "TRAUMAS: Brūces. Roku un kāju traumas",
+      "answer": "1. Netīru nobrāzumu vai virspusēju brūci pirms pārsiešanas var noskalot ar tīru ūdeni.\n2. Pārsien tikai ar sausiem, vēlam steriliem pārsējiem."
+    },
+    {
+      "id": "Q05.12",
+      "question": "TRAUMAS: Mugurkaula traumas. Vēdera traumas.",
+      "answer": "1. Aicini cietušo nekustēties, negrozīt galvu.\n2. Nekustini, nepārvieto cietušo pats\\! Neļauj cietušo kustināt citiem\\!\n3. Izsauc NMP.\n4. Aprūpē, nomierini cietušo."
+    },
+    {
+      "id": "Q05.13",
+      "question": "TRAUMAS: Krūškurvja traumas. Galvas traumas",
+      "answer": "1. Palīdzi / Ļauj cietušajam ieņemt ērtāko ķermeņa pozu.\n2. Izsauc NMP.\n3. Ja cietušais vemj, pagriez to uz sāniem.\n4. Ja ir brūce, pārklāj ar marles salveti.\n5. Aprūpē, nomierini cietušo.\n6. Veic atdzīvināšanas pasākumus, ja nepieciešams."
+    },
+    {
+      "id": "Q05.14",
+      "question": "AMPUTĀCIJAS",
+      "answer": "1. Uzvelc rokās ūdens necaurlaidīgus cimdus.\n2. Atbrīvo asiņojošo vietu no apģērba.\n3. Aizspied brūci.\n4. Noguldi cietušo guļus ar asiņojošo vietu uz augšu.\n5. Izsauc NMP.\n6. Turi brūci aizspiestu līdz NMP atbraukšanai.\n7. Ja iespējams, uzliec pārsēju amputācijas brūcei, to cieši nosaitējot.\n8. Aprūpē, nomierini cietušo.\n9. Veic atdzīvināšanas pasākumus, ja nepieciešams."
+    },
+    {
+      "id": "Q05.15",
+      "question": "DZĪVNIEKU IZRAISĪTI NELAIMES GADĪJUMI: Dzīvnieku kostas brūces. Insektu kodumi mutes dobumā.",
+      "answer": "1. Izsauc NMP.\n2. Dod sūkāt ledu vai maziem malkiem dzert aukstu dzeramo.\n3. Dzesē kaklu no ārpuses.\n4. Aprūpē, nomierini cietušo.\n5. Veic atdzīvināšanas pasākumus, ja nepieciešams."
+    },
+    {
+      "id": "Q05.16",
+      "question": "SVEŠĶERMEŅI: Svešķermenis elpceļos.",
+      "answer": "1. Pajautā, vai cietušais ir aizrijies.\n2. Ļauj cietušajam svešķermeni atklepot pašam.\n3. Mudini cietušo klepot.\n4. Ja cietušais vairs nespēj runāt un aktīvi klepo:\n5. Noliec cietušā ķermeņa augšdaļu un veic 5 sitienus starp lāpstiņām.\n6. Ja tas nepalīdz, lieto Heimliha paņēmienu.\n7. Ja nepieciešams, turpini, pārmaiņus veicot sitienus starp lāpstiņām un Heimliha paņēmienu.\n8. Izsauc NMP.\n9. Veic atdzīvināšanas pasākumus, ja nepieciešams."
+    },
+    {
+      "id": "Q05.17",
+      "question": "SVEŠĶERMEŅI: Svešķermenis brūcē. Svešķermenis acī. Svešķermenis ausī.",
+      "answer": "* Svešķermenis brūcē. Kā rīkoties?\n1. Apturi stipru asiņošanu.\n2. Izsauc NMP.\n3. Aprūpē, nomierini cietušo.\n* Svarīgi\\!\n* Neizvelc svešķermeni.\n* Nepieļauj svešķermeņa iespiešanu brūcē.\n* Svešķermenis acī. Kā rīkoties?\n1. Ja svešķermeni neizdodas viegli izskalot, pieņem, ka tas var būt iedūries. Šādā gadījumā uzliec pārsēju abām acīm un meklē medicīnisko palīdzību.\n* Svešķermenis ausī. Kā rīkoties?\n1. Ja auss ejā iekļuvis kukainis, iepilini ausī eļļu vai ūdeni, lai to noslīcinātu. Meklē medicīnisko palīdzību."
+    },
+    {
+      "id": "Q05.18",
+      "question": "SLIMĪBAS: Krampji. Sāpes krūtīs vai elpas trūkums.",
+      "answer": "1. Nodrošini cietušajiem mieru un svaigu gaisu.\n2. Palīdzi / ļauj cietušajiem ieņemt ērtāko ķermeņa pozu.\n3. Palīdzi cietušajiem ieņemt viņa paša jau zināmās zāles.\n4. Izsauc NMP.\n5. Aprūpē, nomierini cietušo.\n6. Veic atdzīvināšanas pasākumus, ja nepieciešams."
+    },
+    {
+      "id": "Q05.19",
+      "question": "SLIMĪBAS: Sāpes vēderā. Cukura diabēts. Insults.",
+      "answer": "* Insults ir galvas smadzeņu bojājums, kura cēlonis ir asinsrites traucējumi galvas smadzenēs, kas apdraud cietušā dzīvību.\n* Kā tas var izskatīties: Vienas ķermeņa puses paralīze, notirpums, vājums, grūtības runāt vai saprast citu teikto, kā arī redzes traucējumi, reibonis, līdzsvara un koordinācijas traucējumi."
+    },
+    {
+      "id": "Q05.20",
+      "question": "ATPŪTAS KUĢU APTIECIŅAS SATURS: Jūras slimības ārstēšana.",
+      "answer": "* Atpūtas kuģa aptieciņas saturu nosaka MK Nr.44 (18.01.2022) Noteikumi par darba drošības un veselības aizsardzības prasībām un medicīnisko aprūpi uz kuģiem un to pielikumi. 1.p. Noteikumi nosaka minimālās darba drošības un veselības aizsardzības prasības medicīniskās palīdzības sniegšanai uz kuģa un darba aizsardzības prasības attiecībā uz medicīnisko aprūpi uz kuģiem, kas kuģo ar Latvijas karogu.\n* Aptieciņas satura apjoms mainās atbilstoši A,B,C kategorijai. 3.3.p. ... un pasažieru kuģi, ..., kuri kuģo iekšējos ūdeņos vai jūrā ne vairāk kā 20 jūras jūdžu attālumā no krasta, kā arī kuģošanai jūrā paredzētie atpūtas kuģi, kas iesaistīti komercdarbībā.\n* 15.p. Katrā uz kuģa esošajā glābšanas laivā, piepūšamajā glābšanas plostā un glābēj laivā ir jābūt pirmās medicīniskās palīdzības komplektam ūdensdrošā iepakojumā ar pievienotu lietošanas instrukciju uz ūdensnecaurlaidīga papīra. Saturs atbilstoši SOLAS un Starptautiskajā glābšanas līdzekļu kodeksā noteiktajām prasībām."
+    }
+  ],
+  "Q06 - Radiosakari": [
+    {
+      "id": "Q06.01",
+      "question": "GMDSS rajonu klasifikācija",
+      "answer": "A1 - 20 - 30 j.j. -  VHF - DSC  - racija\nA2 - 150 - 180 j.j. - videjo viļņu MF - DSC racijas\nA3 - visi pārējie (ārpus A1 un A2) starp 70 N un 70 S paralēli - Satelīta sakari (Inmarsat)\nA4 - tur kur nesniedz A3 (polārie apgabali)\nJa A4 nestrādā - lieto īsviļņu rāciju\nIdeālais antenas garums ir viļņa garums\n<img src=\"topics/img/Q06.01.01.png\" alt=\"Q06.01.01\">"
+    },
+    {
+      "id": "Q06.02",
+      "question": "Radio sakaru aparatūras normas uz jahtām saskaņā ar MK noteikumiem  par atpūtas kuģu drošību.",
+      "answer": "* D kategorija – viena pārnēsājama VHF šļakatdroša stacija\n* C kategorija – viena stacionāra VHF - DSC stacija + D kat.\n* B kategorija – NAVTEX + pārnēsājama VHF - DSC stacija\n* A kategorija (komerc)  – EPIRB, vidējo viļņu vai INMARSAT + B kat<div class=\"table-container\"><table><thead><tr><th></th><th>A</th><th>B</th><th>C</th><th>D</th></tr></thead><tbody><tr><td>Pārnēsājama VHF</td><td>X</td><td>X</td><td>X</td><td>X</td></tr><tr><td>Stacionāra VHF DSC</td><td>X</td><td>X</td><td>X</td><td></td></tr><tr><td>MF/HF 2182kHz</td><td>X</td><td>+</td><td>+</td><td></td></tr><tr><td>Satelītsakaru iekārta INMARSAT</td><td>vai</td><td>vai</td><td>vai</td><td></td></tr><tr><td>NAVTEX</td><td>X</td><td>X</td><td>+</td><td></td></tr><tr><td>EPIRB</td><td>X</td><td>+</td><td></td><td></td></tr></tbody></table></div>\nX – obligāti\n+ – obligāti tiem, kuri nodarbojas ar komercdarbību Satelītsakaru iekārta aizvieto MF/HF radiostaciju"
+    },
+    {
+      "id": "Q06.03",
+      "question": "Kas ir MSI? MSI izplatīšanas veidi.",
+      "answer": "MSI - Maritime safety information\nNodrošina :  UĪV radio ,  MF/HF radio, NAVTEX, INMARSAT, Internets"
+    },
+    {
+      "id": "Q06.04",
+      "question": "Kas ir NAVTEX? Aparatūras veidi, darbības attālums.",
+      "answer": "NAVigational Teletext- direct to printer info from radio frequency\nPārraide tiek veikta MF joslā uz 518 kHz\n200 nm (j.j.)\n1998.g.1.aug."
+    },
+    {
+      "id": "Q06.05",
+      "question": "UĪV sakaru aparatūra. MK noteikumu prasības par UĪV sakariem.",
+      "answer": "- jābūt pieejamam 16\\. kanālam. Frekvence 156.8mhz\n- jābūt vizuālai indikācijai, ka radiostacija ir gatava darbam\n- regulējams skaļums\n- trokšņu regulēšanas iespēja\n- raidītāja jaudas pazemināšanas slēdzis, ja raidītāja jauda var pārsniegt 1 W\n- izstarojuma klase G3E"
+    },
+    {
+      "id": "Q06.06",
+      "question": "DSC un tā principi.",
+      "answer": "DSC - Digital selective calling, Ciparu izsaukums - ir starptautisks jūras radiosakaru standarts, kas ļauj automatizēti un ātri pārraidīt trauksmes, drošības un ziņojumu izsaukumus, izmantojot VHF, MF un HF joslas. Ļauj :\n* automātiski identificē kuģi ar unikālu MMSI numuru,\n* ļauj nosūtīt trauksmes signālus bez runas,\n* ļauj adresēti (selektīvi) izsaukt citus kuģus vai krasta stacijas,\n* darbojas arī sliktos radiosakaru apstākļos.\nRācijā jābūt ievadītiem parametriem (MMSI) un pieslēgtam GPS, laikam.\nSignāls ir digitāls, ļoti īss un uztverams tālākos attālumos nekā balss.\nSarkano pogu nospiežun tur kamēr nopīkstas -\\> izvēlas avārijas veidu -\\> velreiz nospiež tur sarkano pogu . Kad avarijas dienests saņem ziņu viņi atbild ka signāls uztverts."
+    },
+    {
+      "id": "Q06.07",
+      "question": "Parastas UĪV rācijas atšķirības no DSC rācijas.",
+      "answer": "Analoga vai digitāla. Digitāla spēj saņemt arī tehnisko info. DSC ļauj nosūtīt ziņu konkrētam MMSI numuram."
+    },
+    {
+      "id": "Q06.08",
+      "question": "Jūras drošības informācijas (MSI) izplatīšanas veidi.",
+      "answer": "NAVTEX (A1/ A2 - zona)\nInmarsat (A3 - zona )\nRacijas  (A1 / A2 / A3 - zona ) - VHF/MF/HF"
+    },
+    {
+      "id": "Q06.09",
+      "question": "Sakaru nodibināšana pa UĪV rāciju. Standarta frāzes angļu valodā.",
+      "answer": "This is…”, “Over”, “Say again”, “Stand by”, “Roger”, “Wilco”, “Out”, “Mayday”, “Pan-Pan”, and “Sécurité”"
+    },
+    {
+      "id": "Q06.10",
+      "question": "Kas ir MMSI numurs un kas to piešķir jahtām Latvijā.",
+      "answer": "- Maritime Mobile service identity, piešķir “Elektroniskie sakari”, 9 ciparu numurs. Tiek piešķirts katrai laivai – ieprogrammē iekš iekārtas (DSC) un EPIRB bojai. Katrā iekārtā tiks iedots tas pats numurs. Darbojas kā telefona numurs, kuru var izsaukt."
+    },
+    {
+      "id": "Q06.11",
+      "question": "Satelītu sakaru sistēmas",
+      "answer": "INMARSAT - Satlītu sakaru sistēm sastāv no 4x satelītiem\nCOSPAS (КОСПАС \"Космическая Система Поиска Аварийных Судов\") – nodrošina EPIRB boju saziņu, arī A4 teritorijā, 45 satelīti"
+    },
+    {
+      "id": "Q06.12",
+      "question": "UĪV 16\\. kanāls – kam tas ir paredzēts un kā tas tiek pareizi lietots?",
+      "answer": "Sakaru nodibināšanai un ārkārtas situācijā saziņā ar glābšanas dienestu"
+    },
+    {
+      "id": "Q06.13",
+      "question": "Glābšanas dienestu izsaukšanas kārtība avārijas gadījumā. Avārijas izsaukuma saturs un kārtība.",
+      "answer": "\\#16 kanāls, jāsauc:\nMAYDAY , MAYDAY , MAYDAY  (PAMPAM / SECURITE )\nMY CALL SIGN IS … (nav obligāti )\nMAYDAY\nPOSITION 45” 36  North , 012” 32 East\nIMMEDIATE ASSISTANCE REQUIRED\n5 persons on board\nOVER"
+    },
+    {
+      "id": "Q06.14",
+      "question": "Ostu kuģu satiksmes dienesti, to uzdevumi un jahtu sakari ar tiem.",
+      "answer": "Satiksmes organizēšana ostā. Kuģi prasa atļauju ienākt ostā.  Mazās ostās ienākot ir jāprasa atļauja, lielās nav (lasīt lociju).  Kanāls 9\\#"
+    },
+    {
+      "id": "Q06.15",
+      "question": "Rīcība, ja pa radio dzirdams DSC trauksmes signāls.",
+      "answer": "* piefiksēt kuģa žurnālā visu, kas dzirdēts\n* pārslēgties uz 16\\. kanālu un klausīties kasnotiek\n* vajadzības gadījumā pieteikties palīdzēt"
+    },
+    {
+      "id": "Q06.16",
+      "question": "Rīcība, ja pa radio dzirdams avārijas izsaukums ar balsi.",
+      "answer": "Ja dzird palīdzību ar balsi -\\> nav jāatbild\nPalīdzību var sniegt citam līdzvērtīgam kuģim.\nVai meklējot cilvēku aiz borta.\nPalīgā sauciens ir jāpieraksta kuģa žurnālā un savas kordinātes."
+    },
+    {
+      "id": "Q06.17",
+      "question": "Fonētiskais alfabēts. Vārdu nosaukšana pa burtiem.",
+      "answer": "Alfa, bravo, charlie, delta, echo, foxtrot, golf, hotel, india, juliet, kilo, lima, mike, november, oscar, papa, quebec, romeo, sierra, tango, uniform, victor, whiskey, xray, yankee, zulu"
+    },
+    {
+      "id": "Q06.18",
+      "question": "Kuģa koordināšu paziņošana pa rāciju angļu valodā.",
+      "answer": "five seven degrees five minutes point five NORTH, yy degress yy minutes point y EAST"
+    },
+    {
+      "id": "Q06.19",
+      "question": "EPIRB. Reģistrācija, kodēšana un sertifikācija.",
+      "answer": "* ieslēdz briesmu gadījumā, ņem līdz, ūdenī uzpeld, vajag turēt ārpus laivas, jo radiosingāls netiek cauri korpusam.\n* ir hidrostats, kas to ieslēdz noteiktā dziļumā vai saskarē ar ūdeni\n* kodē dīleris, tas veic arī pārējo dokumentāciju\n* reģistrē valsts radio sakari un jūras administrācija"
+    },
+    {
+      "id": "Q06.20",
+      "question": "Izsaukuma signāls (Call Sign), kas to piešķir jahtām Latvijā un kā to lieto.",
+      "answer": "Izsaukums signāls – piešķir “Elektroniskie sakari”. Latvijā sākas ar YL. Izsaukuma signāls aizvieto jahtas nosaukumu radiosakaros."
+    }
   ]
 };

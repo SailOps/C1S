@@ -31,15 +31,65 @@ def parse_markdown_files(directory):
         current_questions = []
         current_q = None
         
+        table_buffer = []
+
+        def flush_table(buffer):
+            if not buffer:
+                return ""
+            
+            # Check for header separator (row 2 starts with | - or | :-)
+            has_header = False
+            if len(buffer) > 1 and re.match(r'^\|\s*:?-+', buffer[1].strip()):
+                has_header = True
+            
+            html = '<div class="table-container"><table>'
+            
+            start_idx = 0
+            if has_header:
+                # Process Header
+                header_row = buffer[0].strip().strip('|').split('|')
+                html += '<thead><tr>'
+                for cell in header_row:
+                    html += f'<th>{cell.strip()}</th>'
+                html += '</tr></thead>'
+                start_idx = 2 # Skip header and separator
+            
+            html += '<tbody>'
+            for i in range(start_idx, len(buffer)):
+                row_line = buffer[i].strip()
+                # Skip separator if it wasn't caught (e.g. malformed)
+                if re.match(r'^\|\s*:?-+', row_line):
+                    continue
+                    
+                cells = row_line.strip('|').split('|')
+                html += '<tr>'
+                for cell in cells:
+                    html += f'<td>{cell.strip()}</td>'
+                html += '</tr>'
+            html += '</tbody></table></div>'
+            return html
+
         for line in lines:
             line = line.strip()
             if not line:
+                # Even empty lines might break a table in markdown, usually.
+                # Let's flush table if empty line is encountered
+                if table_buffer:
+                     if current_q:
+                        current_q["answer"] += flush_table(table_buffer)
+                     table_buffer = []
                 continue
                 
             match_std = q_pattern_std.match(line)
             match_alt = q_pattern_alt.match(line)
             
             if match_std or match_alt:
+                # Flush table before new question
+                if table_buffer:
+                     if current_q:
+                        current_q["answer"] += flush_table(table_buffer)
+                     table_buffer = []
+
                 # Save previous question if exists
                 if current_q:
                     current_questions.append(current_q)
@@ -48,10 +98,8 @@ def parse_markdown_files(directory):
                     full_id = match_std.group(1)
                     q_text = match_std.group(2).strip()
                 else:
-                    # Alternate format: > (1) -> Q02.01, > (10) -> Q02.10
-                    # Check if match.group(1) is single digit
                     num_str = match_alt.group(1)
-                    num = num_str.zfill(2) # '1'->'01', '10'->'10'
+                    num = num_str.zfill(2)
                     full_id = f"{topic_prefix}.{num}"
                     q_text = match_alt.group(2).strip()
                 
@@ -61,11 +109,19 @@ def parse_markdown_files(directory):
                     "answer": ""
                 }
             else:
-                # content line - append to current question answer
-                
-                # Regex for markdown image: ![alt](url)
-                # We need to prepend 'topics/' to url if it doesn't have it (assuming relative to md file)
-                # And convert to <img ...>
+                # Content line
+                # Check for table row
+                if line.startswith('|'):
+                    table_buffer.append(line)
+                    continue
+                else:
+                    # Not a table line, flush if needed
+                    if table_buffer:
+                        if current_q:
+                             current_q["answer"] += flush_table(table_buffer)
+                        table_buffer = []
+
+                # Normal content processing
                 
                 def img_replacer(match):
                     alt = match.group(1)
@@ -74,12 +130,10 @@ def parse_markdown_files(directory):
                     if url.startswith('http'):
                         return f'<img src="{url}" alt="{alt}">'
 
-                    # Adjust path: img/foo.png -> topics/img/foo.png
                     corrected_url = url
                     if not url.startswith('topics/'):
                         corrected_url = f"topics/{url}"
                     
-                    # Validate existence
                     if not os.path.exists(corrected_url):
                         print(f"⚠️  MISSING IMAGE: {corrected_url} (in {filename})")
                         return f'<div class="error">[M] IMAGE NOT FOUND: {url}</div>'
@@ -89,7 +143,6 @@ def parse_markdown_files(directory):
                 line = re.sub(r'!\[(.*?)\]\((.*?)\)', img_replacer, line)
 
                 if current_q:
-                    # Append line with newline to preserve some formatting
                     if current_q["answer"]:
                         current_q["answer"] += "\n" + line
                     else:
@@ -103,6 +156,12 @@ def parse_markdown_files(directory):
         # I should just replace the "else: # content line" block.
 
 
+        # Append the last question
+        # Flush table at end
+        if table_buffer:
+             if current_q:
+                current_q["answer"] += flush_table(table_buffer)
+        
         # Append the last question
         if current_q:
             current_questions.append(current_q)

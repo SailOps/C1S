@@ -269,6 +269,41 @@ header p {
     opacity: 0.9;
 }
 
+/* Markdown Tables */
+.table-container {
+    overflow-x: auto;
+    margin: 20px 0;
+    border-radius: 4px;
+    border: 1px solid var(--border-color);
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.9rem;
+    color: var(--text-main);
+    background: var(--bg-color);
+}
+
+th,
+td {
+    padding: 12px 15px;
+    text-align: left;
+    border-bottom: 1px solid var(--border-color);
+}
+
+th {
+    background-color: rgba(0, 0, 0, 0.03);
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 0.8rem;
+    letter-spacing: 0.5px;
+}
+
+tr:last-child td {
+    border-bottom: none;
+}
+
 @keyframes fadeIn {
     from {
         opacity: 0;
