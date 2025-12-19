@@ -132,7 +132,7 @@ A - bez ierobežojuma, viļņi virs 4m
 | A | vairāk nekā 8 | vairāk nekā 4 |
 | B | līdz 8 (ieskaitot) | līdz 4 (ieskaitot) |
 | C | līdz 6 (ieskaitot) | līdz 2 (ieskaitot) |
-| D | līdz 4 (ieskaitot) | līdz 0,3 (ieskaitot
+| D | līdz 4 (ieskaitot) | līdz 0,3 (ieskaitot) |
 
 (Q07.012) Jahtas aprīkojuma normas par ūdens atsūknēšanas ierīcēm.
 
