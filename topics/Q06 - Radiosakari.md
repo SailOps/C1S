@@ -43,7 +43,7 @@ Pārraide tiek veikta MF joslā uz 518 kHz
 
 (Q06.05) UĪV sakaru aparatūra. MK noteikumu prasības par UĪV sakariem.
 
-- jābūt pieejamam 16\. kanālam. Frekvence 156.8mhz  
+- jābūt pieejamam 16. kanālam. Frekvence 156.8mhz  
 - jābūt vizuālai indikācijai, ka radiostacija ir gatava darbam  
 - regulējams skaļums  
 - trokšņu regulēšanas iespēja  
@@ -61,7 +61,7 @@ DSC - Digital selective calling, Ciparu izsaukums - ir starptautisks jūras radi
 
 Rācijā jābūt ievadītiem parametriem (MMSI) un pieslēgtam GPS, laikam.   
 Signāls ir digitāls, ļoti īss un uztverams tālākos attālumos nekā balss.   
-Sarkano pogu nospiežun tur kamēr nopīkstas -\> izvēlas avārijas veidu -\> velreiz nospiež tur sarkano pogu . Kad avarijas dienests saņem ziņu viņi atbild ka signāls uztverts.    
+Sarkano pogu nospiežun tur kamēr nopīkstas -> izvēlas avārijas veidu -> velreiz nospiež tur sarkano pogu . Kad avarijas dienests saņem ziņu viņi atbild ka signāls uztverts.    
    
 (Q06.07) Parastas UĪV rācijas atšķirības no DSC rācijas.  
    
@@ -86,7 +86,7 @@ This is…”, “Over”, “Say again”, “Stand by”, “Roger”, “Wilc
 INMARSAT - Satlītu sakaru sistēm sastāv no 4x satelītiem  
 COSPAS (КОСПАС "Космическая Система Поиска Аварийных Судов") – nodrošina EPIRB boju saziņu, arī A4 teritorijā, 45 satelīti 
 
-(Q06.12) UĪV 16\. kanāls – kam tas ir paredzēts un kā tas tiek pareizi lietots?
+(Q06.12) UĪV 16. kanāls – kam tas ir paredzēts un kā tas tiek pareizi lietots?
 
 Sakaru nodibināšanai un ārkārtas situācijā saziņā ar glābšanas dienestu 
 
@@ -109,12 +109,12 @@ Satiksmes organizēšana ostā. Kuģi prasa atļauju ienākt ostā.  Mazās ost�
 (Q06.15) Rīcība, ja pa radio dzirdams DSC trauksmes signāls.
 
 * piefiksēt kuģa žurnālā visu, kas dzirdēts  
-* pārslēgties uz 16\. kanālu un klausīties kasnotiek  
+* pārslēgties uz 16. kanālu un klausīties kasnotiek  
 * vajadzības gadījumā pieteikties palīdzēt
 
 (Q06.16) Rīcība, ja pa radio dzirdams avārijas izsaukums ar balsi.
 
-Ja dzird palīdzību ar balsi -\> nav jāatbild   
+Ja dzird palīdzību ar balsi -> nav jāatbild   
 Palīdzību var sniegt citam līdzvērtīgam kuģim.   
 Vai meklējot cilvēku aiz borta.   
 Palīgā sauciens ir jāpieraksta kuģa žurnālā un savas kordinātes.

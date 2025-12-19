@@ -10,7 +10,7 @@
   * Sniedz palīdzību, līdz ierodas Neatliekamās palīdzības / Glābēji.   
 * Pārbaudi savu un cietušā drošību, pārvieto cietušo no draudiem vai draudus no cietušā, novērs negadījuma cēloņus.   
 * Bezsamaņa, stipra asiņošana – tūlītēja pirmā palīdzība – izsauc, vai sūti pēc palīdzības.  
-* Saziņa ar ārkārtas dienestiem izmantojot pieejamo saziņas līdzekļus. MSI, EPIRB, 3 x MAYDAY (PAN PAN) 16\. Kanālā.  
+* Saziņa ar ārkārtas dienestiem izmantojot pieejamo saziņas līdzekļus. MSI, EPIRB, 3 x MAYDAY (PAN PAN) 16. Kanālā.  
 * ABC (Airway, Breathing, Circulation) shēma. Cietušais pie samaņas – Sniedz nepieciešamo palīdzību.
 
 (Q05.02) Atdzīvināšanas pasākumi: Cietušais bezsamaņā, elpo.

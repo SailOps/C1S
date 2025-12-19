@@ -33,9 +33,9 @@ Buru kuģim gaitā jāizliek:
 * Pakaļgala uguns;  
 * Uz buru kuģa mazāka par 12m iepriekš minētie uguņi var tikt sakombinēti vienā lukturī un izvietoti masta topā.  
 * Buru kuģis gaitā papildus šīm ugunīm masta aukšgalā vai tā tuvumā var izlikt divas vertikālā līnijā izvietotas riņķugunis (augšējā sarkana, apakšējā zaļa);  
-* Buru kuģis, garums \<20m, iepriekš minētās ugunis var apvienot vienā kombinētā laternā, kura jāizliek masta aukšgalā vai tā tuvumā;  
-* Buru kuģim, kura garums \<7m, iepriekš minēto uguņu vietā var izlikt baltu riņķuguni.  
-* Kuģim, kas noenkurojies, vislabāk redzamā vietā jāizliek \-  balta riņķuguns vai bumba;
+* Buru kuģis, garums <20m, iepriekš minētās ugunis var apvienot vienā kombinētā laternā, kura jāizliek masta aukšgalā vai tā tuvumā;  
+* Buru kuģim, kura garums <7m, iepriekš minēto uguņu vietā var izlikt baltu riņķuguni.  
+* Kuģim, kas noenkurojies, vislabāk redzamā vietā jāizliek -  balta riņķuguns vai bumba;
 
 ![Q04.02.01](img/Q04.02.01.png)
 
@@ -64,14 +64,14 @@ Buru kuģim gaitā ir jādod ceļš:
 
 (Q04.05) COLREG-72 briesmu signāli.
 
-COLREG-72 4\. pielikums. AVĀRIJAS SIGNĀLI. Signāli izliekami kopā vai atsevišķi, TIKAI, ja kuģis ir briesmās un nepieciešama palīdzība. AIZLIEGTS izmantot citiem nolūkiem, kā arī dot līdzīgus signālus, kurus var pārprast.
+COLREG-72 4. pielikums. AVĀRIJAS SIGNĀLI. Signāli izliekami kopā vai atsevišķi, TIKAI, ja kuģis ir briesmās un nepieciešama palīdzība. AIZLIEGTS izmantot citiem nolūkiem, kā arī dot līdzīgus signālus, kurus var pārprast.
 
-* Lielgabala šāvieni vai citi sprāgstoši signāli ar \~1min intervālu.  
+* Lielgabala šāvieni vai citi sprāgstoši signāli ar ~1min intervālu.  
 * Nepārtraukta skaņa no ierīces, kas paredzēta miglas signāla raidīšanai.  
 * Raķetes vai Granāta ar sarkanām dzirkstelēm- izšaujot vai izmetot ik pēc neliela blaika rīža.  
-* SOS skaņa (ooo \- \- \- ooo) pēc Morzes ABC caur rāciju vai no jebkāda cita signāla avota.  
+* SOS skaņa (ooo - - - ooo) pēc Morzes ABC caur rāciju vai no jebkāda cita signāla avota.  
 * “M E I D E I” skaļi izrunāts vārds pa rāciju.  
-* NC \- Starptautiskā signālu kodu briesmu signāls.  
+* NC - Starptautiskā signālu kodu briesmu signāls.  
 * Signāls – Taisnstūra karogs ar bumbai līdzīgu priekšmet zem tā.  
 * Liesmas (degšana- kontrolētas vai nekontrolētas) uz kuģa.  
 * Sarkana raķete ar izpletni vai sarkana rokas signāl-lāpa.  
@@ -88,10 +88,10 @@ Intensīvas kuģošanas rajonos, kur kuģu plūsmas virzās pretējos virzienos 
 * Praktisko iespēju robežās jāturas sāņus no satiksmes sadales līnijas vai satiksmes sadales joslas;  
 * Normālos apstākļos jāieiet un jāiziet no satiksmes sadales joslas tās galējos posmos, bet ja kuģis atstāj satiksmes sadales joslu vai ieiet tajā no malas, šis manevrs jāizdara iespējami šaurākā leņķī pret satiksmes plūsmas galveno virzienu;  
 * Kuģim, cik tas praktiski iespējams jāizvairās no satiksmes joslu šķērsošanas, bet, ja tas spiests to darīt, tad iespēju robežās satiksmes joslu šķērsošanu jāizdara taisnā leņķī pret satiksmes plūsmas galveno virzienu;  
-* Kuģi, kuru garums \<20m, buru kuģi un zvejas kuģi drīkst un vēlams izmantot piekrastes zonu;  
+* Kuģi, kuru garums <20m, buru kuģi un zvejas kuģi drīkst un vēlams izmantot piekrastes zonu;  
 * Kuģim, kurš pārvietojas sadales sistēmas galējo posmu tuvumā, jāievēro īpaša piesardzība;  
 * Cik iespējams, jāizvairās no enkurošanās sadales sistēmas robežās, vai to galējo posmu tuvumā;  
-* Kuģis, kura garums \<20m vai buru kuģis nedrīkst traucēt kuģa ar mehānisko dzinēju kustību sadales joslā.
+* Kuģis, kura garums <20m vai buru kuģis nedrīkst traucēt kuģa ar mehānisko dzinēju kustību sadales joslā.
 
 (Q04.07) Kādas ugunis un zīmes nes kuģis, kurš ir aizņemts ar padziļināšanas darbiem?
 
@@ -181,7 +181,7 @@ Glābšanas plostu izmanto, kad visas jahtas glābšanas iespējas ir izrādīju
 2. Pārejot uz glābšanas plostu:  
    1. Atbrīvojiet plostu no stiprinājuma;  
    2. Pārbaudiet vai gals plosta atvēršanai ir droši nostiprināts pie jahtas;  
-   3. Paceliet glābšanas plostu un iemetiet to jūrā aiz zemvēja borta. Plosts \~30s pēc iekrišanas ūdenī piepūtīsies  
+   3. Paceliet glābšanas plostu un iemetiet to jūrā aiz zemvēja borta. Plosts ~30s pēc iekrišanas ūdenī piepūtīsies  
    4. Kad plosts pilnībā piepūties, pirmais komandas loceklis pāriet uz to un pieņem visu papildus inventāru;  
    5. Kad visa komanda ir sakāpusi plostā, pārgrieziet piesieto atvēršanas galu.
 
@@ -193,7 +193,7 @@ Izdzīvošana bez glābšanas plosta:
 4. Jau ūdenī, ar līdzi paņemto galu sasaistiet komandas locekļus, peldošos priekšmetus vienā kopumā  
 5. Esot ūdenī necentieties aizpeldēt līdz krastam, bet taupiet siltumu ieņemot “embrija pozu” un minimāli kustoties;  
 6. Centies ieņemt stāvokli, kad vilnis ir no muguras  
-7. Saglabājiet pārliecību, ka jūsu briesmu signāls ir saņemts un jūs izglābs\!
+7. Saglabājiet pārliecību, ka jūsu briesmu signāls ir saņemts un jūs izglābs !
 
 (Q04.14) Rīcība pie dzinēja apstāšanās, pie dažādu stūres un tās mehānismu  
 bojājumu gadījumā.

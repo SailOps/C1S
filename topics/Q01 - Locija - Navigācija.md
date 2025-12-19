@@ -5,7 +5,7 @@ Zeme tiek dalīta paralēlēs (platums φ, N/S, 0°–90°)- Platums ir leņķis
 Zeme tiek dalīta  meridiānos (garums λ, E/W,   0°–180°).   
 Garums ir leņķis starp plakni kas iet caur zemes asi un atrodas uz nultā meridiāna un mūsu apskatīto punktu.
 
-Nulles meridiāns — Griniča( pie Anglijas) (λ = 0°); ekvators ir 0°platuma paralēle uz kuras atrodamies saucas ģeogrāfiskais platums\! Koordinātes izsaka grādos, minūtēs, sekundēs vai decimalgrādos.  
+Nulles meridiāns — Griniča( pie Anglijas) (λ = 0°); ekvators ir 0°platuma paralēle uz kuras atrodamies saucas ģeogrāfiskais platums! Koordinātes izsaka grādos, minūtēs, sekundēs vai decimalgrādos.  
 Navigācijā izmanto elipsoīdu mērvienību - 1 jūras jūdze = 1 loka minūtei pa jebkuru meridiānu
 
 (Q01.02) Merkatora kartes izveidošanas princips.
@@ -46,9 +46,9 @@ Zīmē: no sākuma STW; no tā gala pievieno straumi; savieno ar sākumu — ieg
 
 (Q01.09) Jahtas  atrašanās vietas noteikšana pēc krasta objektiem ar dažādām metodēm. 
 
-1\) pēc divu objektu peilējuma – nomēram leņķi uz katru no objektiem un velkam koriģētās līnijas uz kartes. Krustpunkts būs mūsu punkts  
-2\) trīs objektu peilējumi. Kā 1\) tikai trijstūra vidus būs mūsu atrašanās vieta  
-3\) pēc dubultpeilējuma. Nomēram leņķi vienrreiz, tad pēc noteikta attāluma nomēram vēlreiz. Uzzīmējam abus leņķus, mūsu kursu un attālumu atzīmējam no pirmā punkta un zīmējot paralelogramu atrodam tādu līniju starp pirmo un otro peilējumu, kura garums ir mums vajadzīgais.
+1) pēc divu objektu peilējuma – nomēram leņķi uz katru no objektiem un velkam koriģētās līnijas uz kartes. Krustpunkts būs mūsu punkts  
+2) trīs objektu peilējumi. Kā 1) tikai trijstūra vidus būs mūsu atrašanās vieta  
+3) pēc dubultpeilējuma. Nomēram leņķi vienrreiz, tad pēc noteikta attāluma nomēram vēlreiz. Uzzīmējam abus leņķus, mūsu kursu un attālumu atzīmējam no pirmā punkta un zīmējot paralelogramu atrodam tādu līniju starp pirmo un otro peilējumu, kura garums ir mums vajadzīgais.
 
 (Q01.10) Peilēšana. Jahtas vietas noteikšana pēc divu bāku peilējuma.
 

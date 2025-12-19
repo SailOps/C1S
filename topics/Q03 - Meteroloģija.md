@@ -1,6 +1,6 @@
 (Q03.01) Boforta skala. 
 
-Vēja stiprumu raksturojoša skala, kas nosakāma pēc ārējiem apstākļiem, bez mērierīces. Sākot ar maziem vilnīšiem līdz “koki lūzt”. Skala no 1 līdz 12\. Ļoti rupji ņemot var reizināt ar 2, lai iegūtu metrus sekundē (un x2, lai iegūtu mezglus) (un x2 lai iegūtu km stundā )
+Vēja stiprumu raksturojoša skala, kas nosakāma pēc ārējiem apstākļiem, bez mērierīces. Sākot ar maziem vilnīšiem līdz “koki lūzt”. Skala no 1 līdz 12. Ļoti rupji ņemot var reizināt ar 2, lai iegūtu metrus sekundē (un x2, lai iegūtu mezglus) (un x2 lai iegūtu km stundā )
 
 (Q03.02) Vēja apzīmējumi uz sinoptiskās kartes. Vēja ātruma mērvienības un sakarība starp tām. 
 
@@ -17,9 +17,9 @@ Ciklons noiet 500 jūdzes diennaktī. Meteo informācijas avoti:  dzīve (novēr
 
 Globālie vēji rodas nevienmērīgas Saules sasilšanas dēļ, kas rada spiediena atšķirības starp ekvatoru (zems spiediens) un poliem (augsts spiediens). Zemes rotācija (Koriolisa spēks) to novirza, radot trīs pastāvīgas cirkulācijas šūnas katrā puslodē.   
 Ir triju veidu vēji :   
-1\) Pasāti  (Easterly Trade winds)  - ir  pastāvīgi vēji, kuri visu gadu pūš virzienā uz ekvatoru: ziemeļu puslodē no ziemeļaustrumiem, bet dienvidu puslodē no dienvidaustrumiem.  
-2\) Mēreno platumu rietumu vẽji (Westerly trade winds) - Šeit dominē Rietumu vēji (Westerlies), kas pūš no rietumiem uz austrumiem. Tie ir galvenie valdošie vēji mērenajos platuma grādos (tajā skaitā Latvijā).   
-3\) Polaro apgabalu austrumu vēji (Easterly polar winds) - kas ir auksti, sausi vēji, kas virzās no austrumiem uz rietumiem.
+1) Pasāti  (Easterly Trade winds)  - ir  pastāvīgi vēji, kuri visu gadu pūš virzienā uz ekvatoru: ziemeļu puslodē no ziemeļaustrumiem, bet dienvidu puslodē no dienvidaustrumiem.  
+2) Mēreno platumu rietumu vẽji (Westerly trade winds) - Šeit dominē Rietumu vēji (Westerlies), kas pūš no rietumiem uz austrumiem. Tie ir galvenie valdošie vēji mērenajos platuma grādos (tajā skaitā Latvijā).   
+3) Polaro apgabalu austrumu vēji (Easterly polar winds) - kas ir auksti, sausi vēji, kas virzās no austrumiem uz rietumiem.
 
 (Q03.05) Tuvojošās vētras pazīmes;
 
@@ -97,7 +97,7 @@ Debesu gaišums rietumos – ja vētra pārvietojas uz austrumiem, tad rietumu p
 
 (Q03.18) Bīstamas laika parādības uz jūras. Negaiss.
 
-Migla, jo nav redzamības. Ir ar ūdeni sasit. Divas miglas. 1\. Iekšējo ūdeņu migla un ārējo ūdeņu migla.  Ir radiācijas migla – viņa ir vasarās, kad strauji nokrītas temperatūra, rīta migla. Parasti veidojas pirms saullēkta. Bet tā ir īslaicīga un radiācijas migla ir lokāla. Tā nav uz jūras. Bet piekrastē ir, un tāpēc ieeju upē neredz. Otra ir jūrā un tā var būt ilgstoša – Advekcijas migla. Siltam gaisam pārvietojoties pāri aukstam ūdenim. Nāk siltās frontes ciklons, un tad nāk ļoti bieza migla vai otrādi var būt kas auksts gaiss nāk pāri siltam ūdenim, piem. rudenī, bet visbiežāk rodas nokrišņi.   
+Migla, jo nav redzamības. Ir ar ūdeni sasit. Divas miglas. 1. Iekšējo ūdeņu migla un ārējo ūdeņu migla.  Ir radiācijas migla – viņa ir vasarās, kad strauji nokrītas temperatūra, rīta migla. Parasti veidojas pirms saullēkta. Bet tā ir īslaicīga un radiācijas migla ir lokāla. Tā nav uz jūras. Bet piekrastē ir, un tāpēc ieeju upē neredz. Otra ir jūrā un tā var būt ilgstoša – Advekcijas migla. Siltam gaisam pārvietojoties pāri aukstam ūdenim. Nāk siltās frontes ciklons, un tad nāk ļoti bieza migla vai otrādi var būt kas auksts gaiss nāk pāri siltam ūdenim, piem. rudenī, bet visbiežāk rodas nokrišņi.   
 Negaiss – negaisa mākoņa tuvumā vējš pūtīs mākoņa virzienā. Lietus sākums ir negaisa beigas. Ja mākoņa apakšējā mala ir taisna, tad būs stiprs vējš. Zibens. Tornado, vēja virpuļi. 
 
 (Q03.19) Izobāras. Sinoptisko karšu lasīšana.
