@@ -70,11 +70,21 @@ def parse_markdown_files(directory):
                 def img_replacer(match):
                     alt = match.group(1)
                     url = match.group(2)
+                    
+                    if url.startswith('http'):
+                        return f'<img src="{url}" alt="{alt}">'
+
                     # Adjust path: img/foo.png -> topics/img/foo.png
-                    # Check if it starts with http or topics already
-                    if not url.startswith('http') and not url.startswith('topics/'):
-                        url = f"topics/{url}"
-                    return f'<img src="{url}" alt="{alt}">'
+                    corrected_url = url
+                    if not url.startswith('topics/'):
+                        corrected_url = f"topics/{url}"
+                    
+                    # Validate existence
+                    if not os.path.exists(corrected_url):
+                        print(f"⚠️  MISSING IMAGE: {corrected_url} (in {filename})")
+                        return f'<div class="error">[M] IMAGE NOT FOUND: {url}</div>'
+                        
+                    return f'<img src="{corrected_url}" alt="{alt}">'
 
                 line = re.sub(r'!\[(.*?)\]\((.*?)\)', img_replacer, line)
 
