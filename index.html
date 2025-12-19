@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="lv">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jūras Navigācijas Jautājumi</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="app-container">
+        <header>
+            <h1>C1S EKSĀMENS</h1>
+            <p>Izvēlies tēmu un pārbaudi savas zināšanas</p>
+        </header>
+
+        <main>
+            <!-- Topic Selection View -->
+            <div id="topic-view" class="view active">
+                <div class="topic-grid" id="topic-grid">
+                    <!-- Topics will be injected here -->
+                </div>
+            </div>
+
+            <!-- Question View -->
+            <div id="question-view" class="view hidden">
+                <button id="back-btn" class="nav-btn">← Atpakaļ uz tēmām</button>
+
+                <div class="card-container">
+                    <div class="flashcard">
+                        <div class="card-front">
+                            <h2 class="topic-label" id="current-topic">Tēma</h2>
+                            <div class="card-actions">
+                                <button id="show-answer-btn" class="action-btn">Rādīt atbildi</button>
+                                <button id="next-question-btn" class="secondary-btn" style="display:none">Nākamais
+                                    jautājums</button>
+                            </div>
+                            <div class="question-content">
+                                <span class="section-label">JAUTĀJUMS</span>
+                                <h3 id="question-text">Jautājums ielādējas...</h3>
+                            </div>
+
+                            <div class="answer-content" id="answer-text">
+                                <span class="section-label">ATBILDE</span>
+                                <div id="answer-body"></div>
+                                <!-- Answer goes here -->
+                            </div>
+
+
+                        </div>
+                        <!-- specific card-back div removed as we just unhide answer now -->
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+    <script src="data.js"></script>
+    <script src="app.js"></script>
+</body>
+
+</html>

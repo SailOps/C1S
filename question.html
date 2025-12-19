@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="lv">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jūras Navigācijas Jautājums</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="app-container">
+        <header>
+            <h1>C1S EKSĀMENS</h1>
+        </header>
+
+        <main>
+            <div id="single-question-view" class="view active">
+                <a href="index.html" class="nav-btn" style="display:block; text-decoration:none; margin-bottom:20px;">←
+                    Atpakaļ uz sākumu</a>
+
+                <div class="card-container">
+                    <div class="flashcard">
+                        <div class="card-front">
+
+                            <div class="question-content">
+                                <span class="section-label">JAUTĀJUMS</span>
+                                <h3 id="question-text">Meklējam jautājumu...</h3>
+                            </div>
+
+                            <div class="answer-content visible" id="answer-text">
+                                <span class="section-label">ATBILDE</span>
+                                <div id="answer-body"></div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+    <script src="data.js"></script>
+    <script src="single_question.js"></script>
+</body>
+
+</html>
